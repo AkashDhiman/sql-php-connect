@@ -13,7 +13,7 @@
     }
     
     $sql = "INSERT INTO Student (ID, Name, Age)
-    VALUES (8, 'Sachin Jeph', 18)";
+    VALUES (8, 'lorem ipsum', 18)";
     
     if ($conn->query($sql) === TRUE) {
         $last_id = $conn->insert_id;

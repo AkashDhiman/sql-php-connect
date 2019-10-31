@@ -12,9 +12,9 @@
     }
     
     $sql = "INSERT INTO Student (ID, Name, Age)
-    VALUES (9, 'Rahul', 16);";
+    VALUES (9, 'nishant', 16);";
     $sql .= "INSERT INTO Student (ID, Name, Age)
-    VALUES (10, 'Bhanu', 17);";
+    VALUES (10, 'Bhanutokas', 17);";
     $sql .= "INSERT INTO Student (ID, Name, Age)
     VALUES (11, 'Gaurav', 19)";
     
